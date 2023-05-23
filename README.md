@@ -11,7 +11,8 @@ The project’s game is set on a sci-fi theme with its main objectives of surviv
 3. In Build Folder, Open Space Cavalry.exe and play
 
 
-##Core Members
+##Core Members:
+
 •Kevyn Garchitorena = Game Developer
 
 •Myra Abilay - Game Designer
