@@ -13,7 +13,9 @@ The project’s game is set on a sci-fi theme with its main objectives of surviv
 
 ##Core Members
 •Kevyn Garchitorena = Game Developer
+
 •Myra Abilay - Game Designer
+
 •Wilfer Villamante - Game Producer
 
 
