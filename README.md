@@ -6,11 +6,12 @@ The project’s game is set on a sci-fi theme with its main objectives of surviv
 
 
 ## How To Play:
-1. Download this git porject Space Cavalry
-2. Install Github
-3. In Build Folder, Open Space Cavalry.exe and play
+➡️ [Download SpaceCavalry v1.0](https://github.com/kevynjcg/SpaceCavalry/releases/download/v1.0.1/SpaceCavalry.zip)
 
-
+📁 After downloading:
+1. Unzip the file.
+2. Open the `Build/` folder.
+3. Run `Space Cavalry.exe`.
 ## Core Members:
 
 •Kevyn Garchitorena = Game Developer
